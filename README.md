@@ -1,5 +1,8 @@
 # Curso o Guia Estelar de Javascript :star:
 
+[![javascript.png](https://i.postimg.cc/QtVMc2k3/javascript.png)](https://postimg.cc/WFLjvfHW)
+
+
 Repositório com exercícios e explicações baseados no Curso de Javascript - O Guia Estelar de Javascript - ministrado pelo instrutor Mayk Brito através da plataforma de ensino Discover da Rocketseat.
 
 ## Recursos utilizados :rocket:
